@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "panel-321812",
+  "private_key_id": "ac5afc8690ea1657623325b154ee5b2964f1742e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLYPwYauarCyMD\nVsDAajvjRSqR7MPxgGAadsISP/qlv46wSWJ+7ohSYVaA/sp6HnNFsXX6KAcXtUKB\nmKH1X64Q5OAzKwdL9+PqgpmumbzG1WRnAXb4BBMlaVGDWSM4CTQddNLpMGZdNkDp\n6IYrggRXoIXNdoOB0oTy47+1d5g5ps74l9T9ont7Bgl6Ro/H20xXg/eGeNqyvxD/\n2HIREoIXKZ2vx+AC4KSEFKLstmBynZv24ukfKGhvFrxNiv12ZOsc7d5lt0ROX4bE\nCVDG6HYq9Fz7afy0+4SDoXcjT9FqS51q5ZJEXOeE1DJcEp0VP0mEGEcKf8xy6BI+\noAb10cIbAgMBAAECggEAE6Smj03alqBI6EcmRHoI6761SbUrswp6UxlaTZHxXws9\nOF32I0VdqaXuHspn0Fta4zCB28Cm+A1mmDF09HKifiOPsKbSGcPJDHrtu1VCTEAL\nEP8tYu9d0V9hOJr7kat4kEnFdIawtFsLnQFQ3X3oISCHcTH7qfvPzHfefyPxx3Yz\n+xFeOMQiP8K9xCl+7U8A3GSt0FhQgekbjL2M7VuW2WhSql2IPPgjmPRgpeZM/DNi\nyrZY5kz4CFtZsNdLC+YZtgIDDcq1Jq2F9JlF7BxksCBVGo2ixSpZWTRnSiFxBH6/\nn6kEf0S2TiWyRO0CyGHFylhN+R7eArTW7JmUyO8bOQKBgQD3ATG5P5GGdjZ80JjI\nREAVHxaHmPYlP/oqUnl71Xqz5kbsO1/aQJDAT7+vnJipFwGtd2Oy9Tc78zX5lI7P\n5S9LAqmOp5HHhte823d4hlpS+4yHCNOkDZNRWsIyoZ2UnNDJRnfNjJ/xuQJo7GtF\nuF2hakUCtT48klYn2Q3V1GhfOQKBgQDSyRIAV+YIVbRluflBsdznBMJp9h6tkPSb\nDeDaP+m8QtzFopWvhuKtlPIFj9thV2bGnDFQJIqdtJx/OnHu+uON91JLsWA/S+2n\nTCb/yJZbB60GbHQsChdCMF72DUHP9WL9PkQzIVBcIWJZM2UpIjPdR3msA0G+1fWr\ntIekDntX8wKBgQCRAn95nQtHYGEut5vqfr8MZ1rnsnJXfg7VB+RQQg0uTnO2vkjQ\nrfUNIgSMCahKJLqUZzH93x5VMLywUHnjLU6tf9uhZ1kbRVukgUfLVzzx2MIwiIsP\nlfS1302BQgZsOAAPGjK9VuCTnaT/ikSUAt/dIrFvHI50KwkvjaskrPW1aQKBgDRh\nXyXSsglUMvYslvJqXrjSB/YJAWqkYQS/GCdkRpNQEkjStFvgKyhzoQkczKmN7K5i\nVibSTdgO7+z1+yYmFrJKyZqhw4c3OSGf3PknQaXxbF/yR5RCFbGPD6oZdUdWdXj1\nJkGGf8/FRAliqjrkkvrkLio+zPG9fcVjoWl1Z9VdAoGAU+wPRJy9mHHjK2SooV5z\n936fD5Y4mYy0VaGYPXUkqqx8zsVg4UOQkLiSAqFix/UuHAwPTz2EwGoKgzwLu2vK\npdaNp+jQolCT6Es47yW25NWQ9POn/Xg/fEkMdhHRoD0l9EGUSCBGrcDU0/fnvp8m\nEhxHPHsK1RX9EkJWAmXC0sY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "commopsautomation@panel-321812.iam.gserviceaccount.com",
+  "client_id": "108211581212530984531",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/commopsautomation%40panel-321812.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
